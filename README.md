@@ -23,7 +23,7 @@ This is a simple spreadsheet application built using React.js and styled with Ta
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/piyushk1/SpreadsheetApp.git
     cd your-repository-name
     ```
 
